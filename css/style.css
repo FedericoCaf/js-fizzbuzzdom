@@ -1,0 +1,27 @@
+
+body{
+  background-color: #083B4C;
+}
+
+.box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 165px;
+  width: 165px;
+  background-color: #1389B2;
+  margin: 10px;
+}
+
+.mult3{
+  background-color: #0BD6A1;
+}
+
+.mult5{
+  background-color: #FFD166;
+}
+
+.mult3-5{
+  background-color:#F0466F; 
+}
+
