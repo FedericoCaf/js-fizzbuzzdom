@@ -12,12 +12,12 @@ for (let i = 1; i <= 100; i++) {
   if (!(i % 3) && !(i % 5)) {
     box.classList.add('mult3-5');
     box.innerHTML = 
-    ` <h3> <strong>fuzzbuzz</strong></h3>
+    ` <h3> <strong>fizzbuzz</strong></h3>
     `
  } else if (!(i % 3)) {
     box.classList.add('mult3');
     box.innerHTML = 
-    ` <h3> <strong>fuzz</strong></h3>
+    ` <h3> <strong>fizz</strong></h3>
     `
  } else if (!(i % 5)) {
     box.classList.add('mult5');
